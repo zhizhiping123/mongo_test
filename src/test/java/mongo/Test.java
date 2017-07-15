@@ -18,7 +18,8 @@ private QueryService queryService;
 //		QueryService queryService=ctx.getBean(QueryService.class);
 @org.junit.Test
 public void test(){
-		queryService.queryPersonByName();//d
+		queryService.queryPersonByName()
+		;//d
 }
 	
 }
